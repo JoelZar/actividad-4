@@ -1,0 +1,50 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image:url(imagenes/fondo.png);
+  padding: 20px;
+}
+ header h1{
+  color: #f44336;
+  text-align: center;
+  border:4px dashed #f44336;
+  background-color: white;
+  padding: : 3px;
+}
+
+nav ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li{
+  display: inline;
+  margin: 15px;
+  padding: 10px;
+  background-color:#ff9800;
+  color: white;
+  border: #f44336; 
+
+}
+
+
+#uno{
+  background-color:#ffc107; 
+  text-align: left;
+}
+#dos{
+  background-color:#ffc107; 
+  text-align: right;
+}
+#numeros{
+  font-size: 24px;
+  color: blue;
+}
+
+#numero2{
+  font-size: 20px;
+  color: red;
+}
+
+#numero3{
+  color: green;
+}
